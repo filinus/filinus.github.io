@@ -21,9 +21,9 @@ PROFESSIONAL EXPERIENCE
 Hewlett Packard Enterprise, San Jose, CA	03/2021   08/2024
 Cloud Senior Software Engineer, HPE Ezmeral DataFabric
 Led backend development for HPE Ezmeral DataFabric solutions, focusing on infrastructure automation, performance optimization, and cloud deployments. Played a key role in enhancing user experience through system stability and efficiency improvements.
-* HPE DataFabric Installer as backend of SaaS: Terraform, AWS/Azure/GCP/OnPremises, Python, Java, Ansible, Jenkins, GitHub. Extensive development for Terraform infrastructure, Ansible provisioning and Python control. 40% speed optimization for cloud installs for smooth user experience over standalone app, Ubuntu/Linux.
-* HPE/MapR API Server. REST, Java.
-* HPE/MapR Ezmeral DataFabric Installer App, Java, ReactJS, TypeScript, Python, Ansible, various Linux-es.
+* HPE DataFabric Installer as backend of SaaS: Terraform, AWS/Azure/GCP/OnPremises/Docker, Python, Java, Ansible, Jenkins, GitHub. Extensive development for Terraform infrastructure, Ansible provisioning and Python control. 40% speed optimization for cloud installs for smooth user experience over standalone app, Ubuntu/Linux.
+* HPE/MapR API Server. REST, Java, JUnit.
+* HPE/MapR Ezmeral DataFabric Installer App, Java, ReactJS, TypeScript, Python, Ansible, various Linux-es, Docker.
 
 IT Rex Group, Aliso Viejo, CA	06/2024 - present
 ML/AI Engineer Intern
@@ -31,7 +31,7 @@ ML/AI Engineer Intern
 
 
 Iotium Inc., Santa Clara, CA	02/2019 - 01/2021
-Senior Software Engineer
+Lead Software Engineer
 * Remote access to remote Windows (RDP) and Linux machines over the web using Apache Guacamole, Java, Angular JS, MySQL, Docker, integration with outer portal in ReactJS.
 * Statistical dashboard in portal, full-stack project: AWS Flow Logs, Graylog, Python, Django, Swagger, Docker, MySQL, Fast Python, FastAPI, REST API, ReactJS, Integration Tests at Bitbucket Pipeline.
 * Access audit, full-stack project.  AWS Flowlogs, Graylog, Python, Django, MySQL, SQLAlchemy, ORM, Docker, Docker Compose, REST API, unit tests, Bitbucket Pipeline.
