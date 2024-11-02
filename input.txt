@@ -91,4 +91,5 @@ CERTIFICATION AND TRAINING
 * Spring 4.0 - Brainbench.
 * AWS: Networking - LinkedIn.
 * Python Object Oriented Programming - LinkedIn.
+* Running Kubernetes on AWS (EKS) - LinkedIn.
 * NodeJS - Udemy
