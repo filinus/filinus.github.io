@@ -3,93 +3,76 @@ San Mateo, CA | 650-200-7616 | val@filin.us | linkedin.com/in/vfilin | github.co
 
 SENIOR BACKEND SOFTWARE ENGINEER
 
-Senior Backend Software Engineer specializing in cloud-based infrastructure optimization, system architecture, and full-stack development. Proven success automating infrastructure, streamlining operations, and enhancing application performance, leveraging modern tools and frameworks. Drives complex technical projects from design through implementation, ensuring scalable and maintainable solutions.
+Seasoned Senior Backend/Full-Stack Software Engineer with Infrastructure-as-Code (IaC) across AWS, GCP, Azure, and/or on-premises. Experienced in developing RESTful APIs, SaaS web apps. Skilled in Python, Java, SQL databases, and JavaScript/TypeScript frameworks. Success in startups and corporate teams. Able to contribute within cross-functional teams or work autonomously, taking ownership of legacy projects or kickstarting initiatives from proof-of-concept (POC) to production-grade, scholastic mind, influence to design effectively reducing resources. Proactive self-development in AI/ML/CompVision.
+
 
 TECHNICAL SKILLS
 
-* Java: Servlets/JSP, Spring, Hibernate, Maven, WebDriver, JUnit, Tomcat.
-* Python, Django, FastAPI, PIP, PyTest, PyTorch, ORM
-* JavaScript: AJAX, jQuery, HTML/XHTML, CSS, TypeScript, React, AngularJS.
-* LAMP stack: PHP, MySQL, Apache and Linux.
-* Cloud: Docker, AWS EC2, VPC, S3, SQS, Terraform + AWS/GCP/Azure, Ansible.
-* Tools/concepts: REST, MVC, SaaS, SQL, OOP, XML, Git, Jenkins, Jira, Wiki, Bash, OpenAPI/Swagger, Linux.
-* Passionate about: ML&AI, Kotlin, Go, NodeJS, Rust, Kubernetes.
+•	Java: Servlets/JSP, Spring, Hibernate, Maven, WebDriver, JUnit, Tomcat.
+•	Python, Django, FastAPI, PIP, PyTest, PyTorch, ORM
+•	JavaScript: AJAX, jQuery, HTML/XHTML, CSS, TypeScript, React, AngularJS.
+•	LAMP stack: PHP, MySQL, Apache and Linux.
+•	Cloud: Docker/Kubernetes, AWS EC2, EKS, VPC, S3, SQS, IaC, Terraform + AWS/GCP/Azure, Ansible.
+•	Tools/concepts: REST, MVC, SaaS, SQL, OOP, XML, Git, Jenkins, Jira, Wiki, Bash, OpenAPI/Swagger, Linux.
+•	Open/developing: ML/AI/CV, Kotlin, Go, NodeJS, Rust.
 
 PROFESSIONAL EXPERIENCE
 
 
-Hewlett Packard Enterprise, San Jose, CA	03/2021   08/2024
+Hewlett Packard Enterprise, San Jose, CA	03/2021 – 08/2024
 Cloud Senior Software Engineer, HPE Ezmeral DataFabric
 Led backend development for HPE Ezmeral DataFabric solutions, focusing on infrastructure automation, performance optimization, and cloud deployments. Played a key role in enhancing user experience through system stability and efficiency improvements.
-* HPE DataFabric Installer as backend of SaaS: Terraform, AWS/Azure/GCP/OnPremises/Docker, Python, Java, Ansible, Jenkins, GitHub. Extensive development for Terraform infrastructure, Ansible provisioning and Python control. 40% speed optimization for cloud installs for smooth user experience over standalone app, Ubuntu/Linux.
-* HPE/MapR API Server. REST, Java, JUnit.
-* HPE/MapR Ezmeral DataFabric Installer App, Java, ReactJS, TypeScript, Python, Ansible, various Linux-es, Docker.
+•	HPE DataFabric Installer as backend of SaaS/IaC Infrastructur-As-Code: Terraform, AWS/Azure/GCP/OnPremises, Python, Java, Ansible, Jenkins, GitHub. Extensive development for Terraform infrastructure, Ansible provisioning and Python control. 40% speed optimization for cloud installs for smooth user experience over standalone app, Ubuntu/Linux.
+•	HPE/MapR API Server. REST, Java, Junit.
+•	HPE/MapR Ezmeral DataFabric Installer App, Java, ReactJS, TypeScript, Python, Ansible, JUnit, various Linux-es.
 
 IT Rex Group, Aliso Viejo, CA	06/2024 - present
-ML/AI Engineer Intern
-* Computer Vision Project, core ML processor. Python, OpenCV, PyTorch, Azure, FastAPI, REST API, CUDA, WSL, Docker Compose
+ML/AI Engineer
+•	Computer Vision Project, core ML processor. Python, OpenCV, PyTorch, SqlAlchemy, Azure, FastAPI, REST API, GraphQL, CUDA, WSL, Docker Compose, Kubernetes, AWS EKS
 
-
-Iotium Inc., Santa Clara, CA	02/2019 - 01/2021
+Iotium Inc., Santa Clara, CA	02/2018 - 01/2021
 Lead Software Engineer
-* Remote access to remote Windows (RDP) and Linux machines over the web using Apache Guacamole, Java, Angular JS, MySQL, Docker, integration with outer portal in ReactJS.
-* Statistical dashboard in portal, full-stack project: AWS Flow Logs, Graylog, Python, Django, Swagger, Docker, MySQL, Fast Python, FastAPI, REST API, ReactJS, Integration Tests at Bitbucket Pipeline.
-* Access audit, full-stack project.  AWS Flowlogs, Graylog, Python, Django, MySQL, SQLAlchemy, ORM, Docker, Docker Compose, REST API, unit tests, Bitbucket Pipeline.
-* Graylog automated customization: Graylog REST API, Ansible
-* AWS Golden image creation and replication: AWS, Python, Terraform, Ansible.
-* Streaming IoT Devices Telemetry to Google Cloud using Java/Device Automated Qualification DAQ Framework/Kafka, Docker, project requested by Google.
+•	Remote access to remote Windows (RDP) and Linux machines over the web using Apache Guacamole, Java, Angular JS, MySQL, Docker, integration with outer portal in ReactJS.
+•	Statistical dashboard in portal, full-stack project: AWS Flow Logs, Graylog, Python, Django, Swagger, Docker, MySQL, Fast Python, FastAPI, REST API, ReactJS, Integration Tests at Bitbucket Pipeline.
+•	Access audit, full-stack project.  AWS Flowlogs, Graylog, Python, Django, MySQL, SQLAlchemy/ORM, Docker, Docker Compose, REST API, unit tests, Bitbucket Pipeline, IaC.
+•	Graylog automated customization: Graylog REST API, Ansible
+•	AWS Golden image creation and replication: AWS, Python, Terraform, Ansible.
+•	Streaming IoT Devices Telemetry to Google Cloud using Java/Device Automated Qualification DAQ Framework/Kafka, Docker, project requested by Google.
 
-
-Routerra, San Carlos, CA	08/2018   02/2021
-Full-Stack Developer
-* Private fleet tracking and visualization. Implemented end-to-end prototype from logger device s MQTT message through aggregator and REST services to visualization on map in React SPA (Java, Spring Boot, JPA, Maven, REST, React, TypeScript, MapBox JS GL, Git/GitHub, Docker Compose).
-
-8x8 Inc, San Jose, CA	01/2018 - 07/2018
+ItsOn Inc, Redwood Shores, CA	02/2014 - 12/2017
 Senior Web Developer
-* Unified Communications integration engine solving problem of NxN integration of enterprise apps. Java 8, Spring Boot, Mockito, JUnit, Nashorn/JavaScript, Apache Camel. Created CI/CD end-to-end pipelines including significant coverage by unit, integration, acceptance tests, Maven, Gradle, Jenkins, Pipeline/Groovy, Git/GitLab, SonarQube, Kubernetes, Docker, SaaS.
+•	Unified REST API aggregating internal APIs. Significant functionality unification and extensive test coverage. Java 7, JAX-RS/Jersey, Guava, MapStruct, Mockito, JUnit, Protobuf, Swagger, Apache Commons, SaaS. Additionally learned Go (GoLang) as project option.
+•	Feature development at PHP layer for MVNOs portals: my account and CSR. Highly integrated environment with full-stack PHP MVC BE, REST, Jenkins, Java/WebDriver, Ubuntu, Git/Stash, SaaS.
 
-ItsOn Inc, Redwood Shores, CA	05/2015 - 12/2017
-Senior Web Developer
-* Unified REST API aggregating internal APIs. Significant functionality unification and extensive test coverage. Java 7, JAX-RS/Jersey, Guava, MapStruct, Mockito, JUnit, Protobuf, Swagger, Apache Commons, SaaS. Additionally learned Go (GoLang) as project option.
-* Feature development at PHP layer for MVNOs portals: my account and CSR. Highly integrated environment with full-stack PHP MVC BE, REST, Jenkins, Java/WebDriver, Ubuntu, Git/Stash, SaaS.
-
-Metrodigi, Larkspur, CA	02/2014 - 05/2015
-Senior Software Engineer
-* Designed and implemented PDF to reflowable HTML conversion tools in Java. (Java 8, Apache Commons, Maven, PDFBox, AngularJS, JDBC+Postgres, Git, GitHub).
-* Designed, developed RESTful service for fonts repository including single and multiple uploading font file and UI (LAMP, AJAX, MVC, PHP Cake).
-* Support the ebook publishing portal, cloud based, rich UI (PHP, LAMP, REST, PHPCake, Joomla, MVC, AJAX).
-
-Lifestreet	07/2007 - 02/2014
-Lead Software Developer, San Carlos, CA
-* Designed, developed, and supported a distributed Java app in amazon cloud running Selenium WebDriver Grid loading into browsers 1M new publishers  web pages each day and validating ads  context. Debian zed all packages (AWS SQS API, JavaScript, Debian, bash).
-* Designed, developed, and supported Facebook quiz app Social_Buzz running on Google AppEngine backend. 10M+ installs (Ajax, FBJS, OAuth, Java, JSP, AppEngine, OOP).
-* Attractive native IOS application for Social_Buzz Facebook app. (REST, Objective-C, IOS).
-* Implemented Ad SDK prototype for IOS platform (Objective-C, IOS, OOP).
-* REST Services for several IOS and Android apps Google AppEngine/Java.
-* Developed various PHP REST services for portals (LAMP, OOP, JSON, AJAX).
-* Programmed various PHP utils, command line and web based on forks and reaching the highest performance processing data with 100,000,000 records.
-* Designed and implemented Firefox Mozilla AddOn by JavaScript and XUL to catch and analyze any ad network in a webpage.
-* Designed, developed the Template Engine for Ad Server used in company platform several years (PHP, Smarty, MVC, OOP).
-* JavaScript Ad Tags integration into various social platforms Facebook, Myspace, Bebo, etc.
-* IVR VoiceXML app and support REST services for TrueAssure credit score related products. (VXML, PHP, JavaScript, REST).
-* IVR app Asterisk based. Chain of REST services. (IVR, Asterisk, PHP).
-* Facebook Quiz Apps Quizod.  (MVC, CodeIgniter, PHP, REST, FBML, OOP).
-* Various SMS subscription apps with aggregator APIs (PHP, cURL, XML).
+Lifestreet, San Carlos, CA	07/2007 - 02/2014
+Lead Software Developer
+•	Designed, developed, and supported a distributed Java app in amazon cloud running Selenium WebDriver Grid loading into browsers 1M new publishers’ web pages each day and validating ads’ context. Debian’zed all packages (AWS SQS API, JavaScript, Debian, bash).
+•	Designed, developed, and supported Facebook quiz app Social_Buzz running on Google AppEngine backend. 10M+ installs (Ajax, FBJS, OAuth, Java, JSP, AppEngine, OOP).
+•	Attractive native IOS application for Social_Buzz Facebook app. (REST, Objective-C, IOS).
+•	Implemented Ad SDK prototype for IOS platform (Objective-C, IOS, OOP).
+•	REST Services for several IOS and Android apps Google AppEngine/Java.
+•	Developed various PHP REST services for portals (LAMP, OOP, JSON, AJAX).
+•	Programmed various PHP utils, command line and web based on forks and reaching the highest performance processing data with 100,000,000 records.
+•	Designed and implemented Firefox Mozilla AddOn by JavaScript and XUL to catch and analyze any ad network in a webpage.
+•	Designed, developed the Template Engine for Ad Server used in company platform several years (PHP, Smarty, MVC, OOP).
+•	JavaScript Ad Tags integration into various social platforms Facebook, Myspace, Bebo, etc.
+•	IVR VoiceXML app and support REST services for TrueAssure credit score related products. (VXML, PHP, JavaScript, REST).
+•	IVR app Asterisk based. Chain of REST services. (IVR, Asterisk, PHP).
+•	Facebook Quiz Apps Quizod.  (MVC, CodeIgniter, PHP, REST, FBML, OOP).
+•	Various SMS subscription apps with aggregator APIs (PHP, cURL, XML).
 
 EDUCATION
 
 Odessa State Polytechnic University
-Master's Degree, Computer Science
+Master’s Degree, Computer Science
 
 CERTIFICATION AND TRAINING
 
-* Docker Foundations Professional Certificate   Docker & LinkedIn
-* ML/AI Computer Vision Project - ITRex Group, active now.
-* PyTorch - LinkedIn.
-* Java 8 Master - Brainbench.
-* PHP 5.6 Master - Brainbench.
-* Spring 4.0 - Brainbench.
-* AWS: Networking - LinkedIn.
-* Python Object Oriented Programming - LinkedIn.
-* Running Kubernetes on AWS (EKS) - LinkedIn.
-* NodeJS - Udemy
+•	Docker Foundations Professional Certificate – Docker & LinkedIn
+•	PyTorch – LinkedIn.
+•	Java 8 Master – Brainbench.
+•	PHP 5.6 Master – Brainbench.
+•	AWS: Networking – LinkedIn.
+•	Python Object Oriented Programming – LinkedIn.
+•	NodeJS – Udemy.
+•	Running Kubernetes on AWS (EKS) - LinkedIn
