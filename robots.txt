@@ -3,4 +3,4 @@ User-Agent: *
 Disallow: /.nojekyll
 Disallow: /CNAME
 
-https://filin.us/sitemap.xml
+sitemap: https://filin.us/sitemap.xml
